@@ -1,3 +1,1 @@
-
-حسین دهقانی ۴۰۲۱۷۴۲۳
-محمدامین نظری مقدم ۴۰۲۲۲۲۵۳
+chess two player game python implementation with GUI
